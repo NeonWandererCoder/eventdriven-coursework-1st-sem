@@ -1,0 +1,9 @@
+C:\Users\enriquez.287395\source\repos\OrganizationProfile\bin\Debug\OrganizationProfile.exe.config
+C:\Users\enriquez.287395\source\repos\OrganizationProfile\bin\Debug\OrganizationProfile.exe
+C:\Users\enriquez.287395\source\repos\OrganizationProfile\bin\Debug\OrganizationProfile.pdb
+C:\Users\enriquez.287395\source\repos\OrganizationProfile\obj\Debug\OrganizationProfile.csproj.AssemblyReference.cache
+C:\Users\enriquez.287395\source\repos\OrganizationProfile\obj\Debug\OrganizationProfile.Properties.Resources.resources
+C:\Users\enriquez.287395\source\repos\OrganizationProfile\obj\Debug\OrganizationProfile.csproj.GenerateResource.cache
+C:\Users\enriquez.287395\source\repos\OrganizationProfile\obj\Debug\OrganizationProfile.csproj.CoreCompileInputs.cache
+C:\Users\enriquez.287395\source\repos\OrganizationProfile\obj\Debug\OrganizationProfile.exe
+C:\Users\enriquez.287395\source\repos\OrganizationProfile\obj\Debug\OrganizationProfile.pdb

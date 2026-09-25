@@ -1,0 +1,9 @@
+C:\Users\sakur\source\repos\ThreadPriority\bin\Debug\ThreadPriority.exe.config
+C:\Users\sakur\source\repos\ThreadPriority\bin\Debug\ThreadPriority.exe
+C:\Users\sakur\source\repos\ThreadPriority\bin\Debug\ThreadPriority.pdb
+C:\Users\sakur\source\repos\ThreadPriority\obj\Debug\ThreadPriority.csproj.AssemblyReference.cache
+C:\Users\sakur\source\repos\ThreadPriority\obj\Debug\ThreadPriority.Properties.Resources.resources
+C:\Users\sakur\source\repos\ThreadPriority\obj\Debug\ThreadPriority.csproj.GenerateResource.cache
+C:\Users\sakur\source\repos\ThreadPriority\obj\Debug\ThreadPriority.csproj.CoreCompileInputs.cache
+C:\Users\sakur\source\repos\ThreadPriority\obj\Debug\ThreadPriority.exe
+C:\Users\sakur\source\repos\ThreadPriority\obj\Debug\ThreadPriority.pdb

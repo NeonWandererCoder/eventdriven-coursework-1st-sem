@@ -1,0 +1,9 @@
+C:\Users\sakur\source\repos\LabStream\bin\Debug\LabStream.exe.config
+C:\Users\sakur\source\repos\LabStream\bin\Debug\LabStream.exe
+C:\Users\sakur\source\repos\LabStream\bin\Debug\LabStream.pdb
+C:\Users\sakur\source\repos\LabStream\obj\Debug\LabStream.csproj.AssemblyReference.cache
+C:\Users\sakur\source\repos\LabStream\obj\Debug\LabStream.Properties.Resources.resources
+C:\Users\sakur\source\repos\LabStream\obj\Debug\LabStream.csproj.GenerateResource.cache
+C:\Users\sakur\source\repos\LabStream\obj\Debug\LabStream.csproj.CoreCompileInputs.cache
+C:\Users\sakur\source\repos\LabStream\obj\Debug\LabStream.exe
+C:\Users\sakur\source\repos\LabStream\obj\Debug\LabStream.pdb

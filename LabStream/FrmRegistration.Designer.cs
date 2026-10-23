@@ -37,6 +37,7 @@ namespace LabStream
             this.lblContactNo = new System.Windows.Forms.Label();
             this.txtContactNo = new System.Windows.Forms.TextBox();
             this.btnRegister = new System.Windows.Forms.Button();
+            this.btnRecords = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // lblTitle
@@ -221,11 +222,22 @@ namespace LabStream
             this.btnRegister.UseVisualStyleBackColor = true;
             this.btnRegister.Click += new System.EventHandler(this.btnRegister_Click);
             // 
+            // btnRecords
+            // 
+            this.btnRecords.Location = new System.Drawing.Point(480, 230);
+            this.btnRecords.Name = "btnRecords";
+            this.btnRecords.Size = new System.Drawing.Size(100, 34);
+            this.btnRecords.TabIndex = 10;
+            this.btnRecords.Text = "Records";
+            this.btnRecords.UseVisualStyleBackColor = true;
+            this.btnRecords.Click += new System.EventHandler(this.btnRecords_Click);
+            // 
             // FrmRegistration
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(600, 285);
+            this.Controls.Add(this.btnRecords);
             this.Controls.Add(this.btnRegister);
             this.Controls.Add(this.txtContactNo);
             this.Controls.Add(this.lblContactNo);
@@ -278,5 +290,6 @@ namespace LabStream
         private System.Windows.Forms.Label lblContactNo;
         private System.Windows.Forms.TextBox txtContactNo;
         private System.Windows.Forms.Button btnRegister;
+        private System.Windows.Forms.Button btnRecords;
     }
 }

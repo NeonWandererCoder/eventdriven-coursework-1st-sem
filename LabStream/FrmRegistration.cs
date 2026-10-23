@@ -52,5 +52,14 @@ namespace LabStream
 
             MessageBox.Show("Registered! File saved as " + fileName + " in " + docPath);
         }
+
+        private void btnRecords_Click(object sender, EventArgs e)
+        {
+            // open the student record form, then show the registration again when it closes
+            FrmStudentRecord studentRecord = new FrmStudentRecord();
+            this.Hide();
+            studentRecord.ShowDialog();
+            this.Show();
+        }
     }
 }

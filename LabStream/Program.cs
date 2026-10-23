@@ -11,14 +11,11 @@ namespace LabStream
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
 
-            // Part 1 (main lab) - starts with FrmLab1
-            Application.Run(new FrmLab1());
+            // Lab Exercise 2 Challenge - start with the registration form
+            Application.Run(new FrmRegistration());
 
-            // Application.Run(new FrmLab1());          
-            Application.Run(new FrmRegistration());     // challenge
-
-            // Challenge Exercise - comment out the line above and use this one instead
-            // Application.Run(new FrmRegistration());
+            // Lab Exercise 1 (main lab) - use this one instead if needed
+            // Application.Run(new FrmLab1());
         }
     }
 }

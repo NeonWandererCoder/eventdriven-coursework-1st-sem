@@ -1,0 +1,9 @@
+C:\Users\sakur\source\repos\LabReadFile\bin\Debug\LabReadFile.exe.config
+C:\Users\sakur\source\repos\LabReadFile\bin\Debug\LabReadFile.exe
+C:\Users\sakur\source\repos\LabReadFile\bin\Debug\LabReadFile.pdb
+C:\Users\sakur\source\repos\LabReadFile\obj\Debug\LabReadFile.csproj.AssemblyReference.cache
+C:\Users\sakur\source\repos\LabReadFile\obj\Debug\LabReadFile.Properties.Resources.resources
+C:\Users\sakur\source\repos\LabReadFile\obj\Debug\LabReadFile.csproj.GenerateResource.cache
+C:\Users\sakur\source\repos\LabReadFile\obj\Debug\LabReadFile.csproj.CoreCompileInputs.cache
+C:\Users\sakur\source\repos\LabReadFile\obj\Debug\LabReadFile.exe
+C:\Users\sakur\source\repos\LabReadFile\obj\Debug\LabReadFile.pdb

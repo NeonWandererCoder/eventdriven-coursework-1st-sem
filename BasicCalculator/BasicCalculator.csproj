@@ -46,7 +46,6 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="BasicComputation.cs" />
     <Compile Include="FrmBasicCalculator.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -76,6 +75,15 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="CalculatorPrivateAssembly\CalculatorPrivateAssembly.csproj">
+      <Project>{47a7f66f-bc42-4070-8c8e-50756f8a03bc}</Project>
+      <Name>CalculatorPrivateAssembly</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Connected Services\" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

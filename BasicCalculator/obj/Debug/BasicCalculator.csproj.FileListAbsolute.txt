@@ -7,3 +7,6 @@ C:\Users\Enriquez.287395\source\repos\BasicCalculator\obj\Debug\BasicCalculator.
 C:\Users\Enriquez.287395\source\repos\BasicCalculator\obj\Debug\BasicCalculator.csproj.CoreCompileInputs.cache
 C:\Users\Enriquez.287395\source\repos\BasicCalculator\obj\Debug\BasicCalculator.exe
 C:\Users\Enriquez.287395\source\repos\BasicCalculator\obj\Debug\BasicCalculator.pdb
+C:\Users\Enriquez.287395\source\repos\BasicCalculator\bin\Debug\CalculatorPrivateAssembly.dll
+C:\Users\Enriquez.287395\source\repos\BasicCalculator\bin\Debug\CalculatorPrivateAssembly.pdb
+C:\Users\Enriquez.287395\source\repos\BasicCalculator\obj\Debug\BasicCal.E684EF6F.Up2Date
